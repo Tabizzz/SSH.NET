@@ -6,7 +6,6 @@
     <AssemblyName>Renci.SshNet</AssemblyName>
     <AssemblyOriginatorKeyFile>../Renci.SshNet.snk</AssemblyOriginatorKeyFile>
     <LangVersion>6</LangVersion>
-    <SignAssembly>true</SignAssembly>
     <TargetFramework>netstandard2.0</TargetFramework>
 	<LangVersion>latest</LangVersion>
   </PropertyGroup>
